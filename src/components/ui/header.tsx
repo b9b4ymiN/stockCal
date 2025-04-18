@@ -12,6 +12,7 @@ export function Header() {
       </Avatar>
       <nav className="space-x-4">
         <Link href="/">DCF</Link>
+        <Link href="/ddm">DDM</Link>
         <Link href="/pe">PE</Link>
         <Link href="/ev-ebitda">EV/EBITDA</Link>
       </nav>
